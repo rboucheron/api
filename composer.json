@@ -1,0 +1,13 @@
+{
+    "require": {
+        "law909/altorouter": "^1.0"
+    },
+    "scripts": {
+        "entity": [
+            "sh ./bin/entity.sh"
+        ],
+        "controller": [
+            "sh ./bin/controller.sh"
+        ]
+    }
+}

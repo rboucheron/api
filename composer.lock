@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4f9a001b579da5f2f4dfe5730a2cbccf",
+    "packages": [
+        {
+            "name": "law909/altorouter",
+            "version": "1.0.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/law909/AltoRouter.git",
+                "reference": "f2cfcd7e25ae713dcaa14fd5f6858f442df5fbdf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/law909/AltoRouter/zipball/f2cfcd7e25ae713dcaa14fd5f6858f442df5fbdf",
+                "reference": "f2cfcd7e25ae713dcaa14fd5f6858f442df5fbdf",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "AltoRouter.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Danny van Kooten",
+                    "email": "dannyvankooten@gmail.com",
+                    "homepage": "http://dannyvankooten.com/"
+                },
+                {
+                    "name": "law909",
+                    "email": "law909@gmail.com"
+                }
+            ],
+            "description": "A lightning fast router for PHP",
+            "homepage": "https://github.com/niahoo/AltoRouter",
+            "keywords": [
+                "lightweight",
+                "router",
+                "routing"
+            ],
+            "support": {
+                "source": "https://github.com/law909/AltoRouter/tree/1.0.7"
+            },
+            "time": "2023-01-09T01:41:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
